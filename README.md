@@ -1,1 +1,1 @@
-# good-words
+# Glossary
